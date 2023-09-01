@@ -1,0 +1,15 @@
+﻿using BookStore.Models.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BookStore.Utility.Email_Sender
+{
+    public interface IEmailSender
+    {
+        Task SendEmailAsync(MailRequest mailRequest);
+
+    }
+}

@@ -10,3 +10,6 @@ C:\Users\Ahmed\source\repos\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility
 C:\Users\Ahmed\source\repos\BookStore.Utility\obj\Debug\net6.0\refint\BookStore.Utility.dll
 C:\Users\Ahmed\source\repos\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.pdb
 C:\Users\Ahmed\source\repos\BookStore.Utility\obj\Debug\net6.0\ref\BookStore.Utility.dll
+C:\Users\Ahmed\source\repos\BookStore.Utility\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\Ahmed\source\repos\BookStore.Utility\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\Ahmed\source\repos\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.csproj.CopyComplete

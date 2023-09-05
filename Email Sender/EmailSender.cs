@@ -4,15 +4,10 @@ using MailKit.Net.Smtp;
 using MailKit.Security;
 using Microsoft.Extensions.Options;
 using MimeKit;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BookStore.Utility
 {
-    public class EmailSender:IEmailSender
+    public class EmailSender : IEmailSender
     {
         private readonly MailSettings _mailSettings;
         public EmailSender(IOptions<MailSettings> mailSettings)
